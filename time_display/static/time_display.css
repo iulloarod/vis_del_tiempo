@@ -1,0 +1,19 @@
+div {
+    border: 2px solid black;
+    min-height: 600px;
+    margin: 10%;
+}
+
+h3 {
+    border: 2px solid black;
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+h1 {
+    border: 2px solid black;
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+}
